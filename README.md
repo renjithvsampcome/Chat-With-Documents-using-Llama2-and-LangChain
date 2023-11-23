@@ -19,7 +19,7 @@ You must have Python 3.9 or later installed. Earlier versions of python may not 
 
 1. Fork this repository and create a codespace in GitHub as I showed you in the youtube video OR Clone it locally.
    ```
-   git clone https://github.com/renjithvsampcome/Chat-With-Documents-using-Llama2-and-LangChain/settings
+   git clone https://github.com/renjithvsampcome/Chat-With-Documents-using-Llama2-and-LangChain/
    cd Chat-With-Documents-using-Llama2-and-LangChain
    ```
 
